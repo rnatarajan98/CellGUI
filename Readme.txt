@@ -1,4 +1,5 @@
-
+IMPORTANT:
+To run, make sure to copy the cells.mat file to the same directory as Mat2Py.py, available from the farm or at https://datadryad.org/stash/dataset/doi:10.5061/dryad.b2t22 under data files
 
 The following modules must be installed:
 	1) scipy
